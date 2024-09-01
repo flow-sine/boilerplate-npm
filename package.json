@@ -1,7 +1,7 @@
 {
 	"author": "sine",
 	"description": "Learning npm rn",
-	"keywords" : ["descriptive", "words", "here"]
+	"keywords" : ["descriptive", "freecodecamp", "here"]
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
